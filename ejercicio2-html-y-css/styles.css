@@ -43,11 +43,6 @@ select {
     width: 100%;
 }
 
-/*input[type="checkbox"] {
-
-    
-}*/
-
 label[for='email'],label[for='password'],label[for='gender'],label[for='terms']{
 
     font-size: small;
